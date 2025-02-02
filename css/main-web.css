@@ -1,4 +1,26 @@
-a.navbar-brand.logo-personal{
-    font-size: 2rem;
-    font-weight: 500;
+a.navbar-brand.navbar-logo {
+    font-weight: 600;
+}
+
+img.icon-web {
+    width: 60px;
+    height: 60px;
+}
+
+.dropdown-menu.menu-item {
+    background-color: rgba(255, 255, 200, .15);
+}
+
+a.dropdown-item.drop-items {
+    color: #fff;
+}
+
+button.btn-outline-success.btn-sign-in {
+    color: #fefefe;
+    border-color: #fefefe;
+}
+
+button.btn-outline-success.btn-sign-in:hover {
+    background-color: #fefefe;
+    color: black;
 }
